@@ -12,6 +12,8 @@ A capacitive soil moisture sensor that reports the values over TTN
 
 ...that's all
 
+![Picture](visual.jpg )
+
+
 ![Picture](MoistureSensor.jpg )
 
-![Picture](visual.jpg )
